@@ -1,0 +1,17 @@
+.navbar {
+    margin-bottom: 0px;
+    background: #234 no-repeat 0 0;
+    /*height: 59px;*/
+    /*line-height: 69px;*/
+}
+
+
+
+/*.navbar-nav > .active {*/
+    /*background: #BBB;*/
+/*}*/
+
+/*.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {*/
+    /*color: rgb(239, 234, 201);*/
+    /*background-color: #234;*/
+/*}*/

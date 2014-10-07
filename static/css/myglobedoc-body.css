@@ -1,0 +1,118 @@
+body {
+    background: #BBB;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+    color: #333;
+}
+
+@media (min-width: 768px) {
+    .container {
+        width: 690px
+    }
+}
+
+@media (min-width: 992px) {
+    .container {
+        width: 890px
+    }
+}
+
+@media (min-width: 1200px) {
+    .container {
+        width: 1080px
+    }
+}
+
+/*.navbar-collapse {*/
+/*padding-top: 20px;*/
+
+/*}*/
+
+.navbar-brand {
+    width: 175px;
+    padding-left: 15px;
+    padding-top: -5px;
+    padding-right: 15px;
+}
+
+.navbar-brand > img {
+
+}
+
+.navbar-brand .by-line {
+    float: right;
+    font-size: 8px;
+    color: rgb(239, 234, 201);
+    margin-top: -10px;
+    padding-right: -5px;
+}
+
+.nav-pills > li a {
+    color: rgb(244, 239, 201);
+}
+
+.nav > li > a:hover, .nav > li > a:focus {
+    text-decoration: none;
+    background-color: #1e6366;
+}
+
+.navbar-collapse.in {
+    margin-top: 5px;
+
+}
+
+.myglobedoc-body {
+    background: #fff;
+}
+
+.myglobedoc-body > footer .share_nav {
+    align-self: center;
+    list-style: none;
+    margin: 0;
+    padding: 0px 0 0 0;
+}
+
+.myglobedoc-body > footer .share_nav ul {
+    text-align: center;
+    list-style-type: none;
+    margin-top: -5px;
+    padding-top: 0px;
+}
+
+.myglobedoc-body > footer .share_nav ul li {
+    display: inline;
+    padding: 0 11px 0 0;
+    margin: 0 10px 0 0;
+}
+
+.myglobedoc-body > footer .share_nav ul li a {
+    font: bold 12px Arial, Helvetica, sans-serif;
+    color: rgb(239, 234, 201);
+}
+
+.myglobedoc-body > footer p {
+    text-align: center;
+    padding-top: 5px;
+    margin: 0;
+    float: left;
+}
+
+.myglobedoc-body > footer .logo {
+    padding-top: 0px;
+    margin: 0 0 18px 0; /*bottom*/
+}
+
+.myglobedoc-body > footer .logo img {
+    border: 1px solid #DFDCDC;
+    margin-right: 8px;
+}
+
+.myglobedoc-body > footer .logo strong {
+    float: left;
+    padding-right: 5px;
+    margin: 6px 0 0 0;
+}
+
+
+
